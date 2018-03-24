@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent" />
+    <stroke
+        android:width="2dp"
+        android:color="@color/material_login_register_color" />
+</shape><!-- From: file:/D:/Andriod%20Projects/AndroidServerDirectoryListing/app/build/intermediates/exploded-aar/com.github.shem8/material-login/1.3.0/res/drawable/login_back.xml -->
